@@ -1,5 +1,15 @@
 # CeubLivre-API
 
+# Edivaldo Security Solutions API
+
+<p align="center">
+<img width="200" src="https://user-images.githubusercontent.com/113999620/234756186-4c4a5c0f-625a-4568-9e4e-9e391cdda98b.jpeg" alt="Material Bread logo">
+</p>
+
+<p align="center">
+Macaco Proteje. Confia. 👍
+</p>
+
 ## Autenticação
 
 Este microsserviço gerencia o processo de autenticação e autorização dos usuários para acessar o marketplace.
